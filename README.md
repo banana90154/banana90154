@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=banana90154&show_icons=true&theme=tokyonight)
 <!--
 **banana90154/banana90154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
